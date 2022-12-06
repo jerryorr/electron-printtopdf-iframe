@@ -1,0 +1,19 @@
+{
+  "name": "electron-printtopdf-iframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryorr/electron-printtopdf-iframe.git"
+  },
+  "author": "Jerry Orr",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/jerryorr/electron-printtopdf-iframe#readme",
+  "dependencies": {
+    "electron": "^22.0.0"
+  }
+}
